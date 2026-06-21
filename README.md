@@ -1,4 +1,4 @@
-# WeltmeisterKI4
+# WeltmeisterKI2026
 
 WeltmeisterKI4 ist ein datengetriebenes Prognose-System fuer die FIFA WM 2026. Es kombiniert historische Laenderspiele, FIFA-Rankings, Elo-/Form-Features, XGBoost, ein kleines PyTorch-Deep-Learning-Modell und Monte-Carlo-Simulationen.
 
